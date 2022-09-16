@@ -12,8 +12,8 @@
       <tr>
         <td><img src="images/been2.jpeg" alt="erdi picture"></td>
         <td><h1>Erdi Usta</h1>
-        <p><em>Killer of <strong><a href="https://eksisozluk.com/">Mevlanas</a><strong>.</em><p>
-        <p>I am Erdi and 33 years old. I like killing things.<p></td>
+        <p><em>Coder, Musician, Engineer, Historian and more..</em><p>
+        <p>I am Erdi and 33 years old. I like learning.<p></td>
         <td></td>
       </tr>
     </table>
